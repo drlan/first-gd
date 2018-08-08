@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script_29may.rpy", line 23: end of line expected.
+    text "asdasdasdadasdadad" size 30
+                              ^
+
+Ren'Py Version: Ren'Py 7.0.0.196
+Wed Aug 08 11:33:50 2018
